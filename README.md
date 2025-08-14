@@ -2,7 +2,7 @@
 
 A fast, interactive, and persistent cheatsheet application built with modern React. This tool allows developers to quickly search and filter through common commands for tools like Git, Docker, NPM, and VS Code.
 
-**[➡️ View the Live Demo](https://dev-command-center.vercel.app/)** ![Dev Command Center Screenshot](./screenshot.png) ---
+**[➡️ View the Live Demo](https://dev-command-center.vercel.app/)**
 
 ## About This Project
 
