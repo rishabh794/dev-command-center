@@ -12,10 +12,10 @@ The entire development process was done iteratively, focusing on building a clea
 
 ## Features
 
-- **⚡️ Dual-Filtering System:** Commands can be filtered by both a pre-defined category and a real-time, case-insensitive search query that checks both the command's name and description.
-- **💾 Persistent User Favourites:** Users can mark their most-used commands as 'favourites'. This list is saved to the browser's Local Storage, persisting the user's choices between sessions.
-- **⚙️ Dynamic & Data-Driven UI:** The category sidebar is generated dynamically from the data source. Adding a new category of commands to the data file automatically adds a new filter button to the UI with no extra code required.
-- **✨ Modern, Responsive UI:** A clean, dark-mode interface built with modern CSS (Flexbox) for a professional and intuitive user experience.
+- **Dual-Filtering System:** Commands can be filtered by both a pre-defined category and a real-time, case-insensitive search query that checks both the command's name and description.
+- **Persistent User Favourites:** Users can mark their most-used commands as 'favourites'. This list is saved to the browser's Local Storage, persisting the user's choices between sessions.
+- **Dynamic & Data-Driven UI:** The category sidebar is generated dynamically from the data source. Adding a new category of commands to the data file automatically adds a new filter button to the UI with no extra code required.
+- **Modern, Responsive UI:** A clean, dark-mode interface built with modern CSS (Flexbox) for a professional and intuitive user experience.
 
 ## Core Technologies & Concepts Demonstrated
 
